@@ -80,7 +80,7 @@ h2 {
 .hero {
     background:
         linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
-        url('me.jpeg') center / cover no-repeat;
+        url('assets/me.jpeg') center / cover no-repeat;
     min-height: 60vh;
     padding: 24px;
     display: flex;
